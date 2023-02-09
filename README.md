@@ -7,7 +7,7 @@ Full-Stack Web Developer
 I've been learning to code for 2 years, after switching careers. I started with HTML, but have really found a passion for backend development.
 
 * ✉️  You can contact me at [deekshithrathod@gmail.com](mailto:deekshithrathod@gmail.com)
-* 🧠  I'm learning Web3 stuff : Motoko, Internet Computer Protocol (ICP)
+* 🧠  I'm learning Web3 stuff : Motoko, Internet Computer Protocol (ICP) 
 
 ### Skills
 

@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Web Developer
 ------------------------
 
-I've been learning to code for 2 years, after switching careers. I started with HTML, but have really found a passion for backend development.
+I've been learning to code for 2 years, after switching careers. I started with HTML, but have really found a passion for Full-Stack development.
 
 * ✉️  You can contact me at [deekshithrathod@gmail.com](mailto:deekshithrathod@gmail.com)
 * 🧠  I'm learning Web3 stuff : Motoko, Internet Computer Protocol (ICP) 
